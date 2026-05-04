@@ -2,6 +2,16 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-04 20:12 IR
+- 🗜️ [tele-mirror-x64-win.zip.zip](https://github.com/bigidol/youtubesandbox/raw/main/dl/tele-mirror-x64-win.zip.zip) `41.3MB`
+
+- 🗜️ [tele-mirror-x64-win.zip.z01](https://github.com/bigidol/youtubesandbox/raw/main/dl/tele-mirror-x64-win.zip.z01) `95.0MB`
+
+- 🗜️ [tele-mirror-x64-win.zip.zip](https://github.com/bigidol/youtubesandbox/raw/main/dl/tele-mirror-x64-win.zip.zip) `41.3MB`
+
+---
+
+
 ### 📅 2026-05-04 16:11 IR
 - 🗜️ [MasterDnsVPN_Client_Windows_AMD64.zip](https://github.com/bigidol/youtubesandbox/raw/main/dl/MasterDnsVPN_Client_Windows_AMD64.zip) `4.0MB`
 
