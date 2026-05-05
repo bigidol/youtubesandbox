@@ -2,6 +2,12 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-05 18:55 IR
+- 📥 [zyrln-windows-amd64.exe](https://github.com/bigidol/youtubesandbox/raw/main/dl/zyrln-windows-amd64.exe) `9.7MB`
+
+---
+
+
 ### 📅 2026-05-04 20:12 IR
 - 🗜️ [tele-mirror-x64-win.zip.zip](https://github.com/bigidol/youtubesandbox/raw/main/dl/tele-mirror-x64-win.zip.zip) `41.3MB`
 
