@@ -2,6 +2,16 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-10 18:46 IR
+- 🗜️ [tele-mirror-win-x64.zip.zip](https://github.com/bigidol/youtubesandbox/raw/main/dl/tele-mirror-win-x64.zip.zip) `46.6MB`
+
+- 🗜️ [tele-mirror-win-x64.zip.z01](https://github.com/bigidol/youtubesandbox/raw/main/dl/tele-mirror-win-x64.zip.z01) `95.0MB`
+
+- 🗜️ [tele-mirror-win-x64.zip.zip](https://github.com/bigidol/youtubesandbox/raw/main/dl/tele-mirror-win-x64.zip.zip) `46.6MB`
+
+---
+
+
 ### 📅 2026-05-09 20:28 IR
 - 📱 [F-Droid.apk](https://github.com/bigidol/youtubesandbox/raw/main/dl/F-Droid.apk) `11.9MB`
 
