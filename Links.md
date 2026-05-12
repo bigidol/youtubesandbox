@@ -2,6 +2,12 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-12 11:54 IR
+- 📱 [WhiteDNS-1.2.0-arm64-v8a.apk](https://github.com/bigidol/youtubesandbox/raw/main/dl/WhiteDNS-1.2.0-arm64-v8a.apk) `5.1MB`
+
+---
+
+
 ### 📅 2026-05-12 11:44 IR
 - 📱 [WhiteDNS-1.2.0-universal.apk](https://github.com/bigidol/youtubesandbox/raw/main/dl/WhiteDNS-1.2.0-universal.apk) `16.3MB`
 
